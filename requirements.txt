@@ -7,3 +7,4 @@ accelerate~=0.33.0
 diffusers~=0.30.0
 transformers~=4.44.0
 tqdm~=4.66.4
+bitsandbytes

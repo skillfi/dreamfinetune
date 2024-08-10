@@ -10,7 +10,8 @@ setup(
         "diffusers~=0.30.0",
         "transformers~=4.44.0",
         "tqdm~=4.66.4",
-        "datasets~=2.20.0"
+        "datasets~=2.20.0",
+        "bitsandbytes"
     ],
     author='Alex',
     long_description=open('README.md').read(),
